@@ -1,0 +1,1 @@
+# astro_type_react
